@@ -1,0 +1,5 @@
+<s> a a , b h </s> 
+<s> a b a i </s> 
+<s> a b , a b a </s> 
+<s> b b , j , b , a </s> 
+<s> a a , a b , b </s>

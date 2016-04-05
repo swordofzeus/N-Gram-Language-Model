@@ -1,0 +1,10 @@
+a b c.
+a a, a a b b d.
+a a, b b b b e.
+a a f, b a b.
+a a, a a a. 
+b a a, b b. 
+b b a, a a.
+b b g.
+b b.
+b.
